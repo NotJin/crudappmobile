@@ -43,7 +43,7 @@ class _MainPageState extends State<MainPage> {
                 items: [
                   SalomonBottomBarItem(icon: const Icon(Icons.home), title: const Text("Home")),
                   SalomonBottomBarItem(icon: const Icon(Icons.search), title: const Text("Search")),
-                  SalomonBottomBarItem(icon: const Icon(Icons.badge), title: const Text("Search")),
+                  SalomonBottomBarItem(icon: const Icon(Icons.account_balance_wallet), title: const Text("Search")),
                   SalomonBottomBarItem(icon: const Icon(Icons.person), title: const Text("User")),
                 ]
             ),
